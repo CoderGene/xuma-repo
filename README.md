@@ -1,4 +1,4 @@
 # XUMA
 
-xuma is amazon inspired application that bassically connects farmers and buyers in an easy and efficient manner
+xuma is an online platform that allows local farmers to connect and trade with local consumers.
 
